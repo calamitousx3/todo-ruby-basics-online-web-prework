@@ -24,5 +24,5 @@ def last_evaluated_value(phrase = "expert")
 end
 
 def pizza_party(arg3 = "cheese")
+  arg3
 end
-arg3
